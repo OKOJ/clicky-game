@@ -1,0 +1,21 @@
+.navbar{
+    background-color: lightgray;
+    /* font-family: 'Staatliches', cursive; */
+}
+.brand{
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
+    color: red;
+    margin-left: 10px;
+}
+.navbar-score{
+    font-family: 'Staatliches', cursive;
+    margin-right:30px;
+}
+span{
+    color: red;
+}
+.navbar-item{
+    font-family: 'Scada', sans-serif;
+    font-size: 20px;
+}

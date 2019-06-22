@@ -1,0 +1,27 @@
+.click-item {
+   
+    background-size: cover;
+    background-position: center;
+    height: 170px;
+    width: 250px;
+    margin: 40px 35px;
+    border: 1px solid black;
+  }
+  
+  .click-item:hover {
+    transform: scale(1.05);
+  }
+  
+  
+  @media (max-width: 750px) {
+    .click-item {
+      margin: 10px;
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .click-item {
+      margin: 10px;
+    }
+  }
+  
